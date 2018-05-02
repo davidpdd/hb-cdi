@@ -69,7 +69,8 @@ Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les 
 - [Codewars](https://www.codewars.com) 
 
 #### Java
-- [Apprendre le Java avec Graven](https://www.youtube.com/watch?v=XgVADKKb4jI)  Youtube - 🇫🇷
+- [Apprendre le Java avec Graven](https://www.youtube.com/watch?v=XgVADKKb4jI)  Youtube - 🇫🇷  
+Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 #### HTML - CSS
 - 
