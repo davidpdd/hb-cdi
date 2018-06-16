@@ -73,7 +73,8 @@ Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les 
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 #### HTML - CSS
-- 
+- [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) *OpenClassrooms*
+Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS).
 - 
 
 
