@@ -44,7 +44,8 @@ L'un des rares cours en ligne disponible en français expliquant les bases de la
 
 - [Introduction à la programmation orientée objet](https://www.coursera.org/learn/programmation-orientee-objet-java) *Coursera (Polytech Lausanne)* 🇫🇷
 
-- [UML(Unified Modeling Language)](https://fr.wikipedia.org/wiki/UML_(informatique)) fait également partie des bases à connaitre. C'est un très bon moyen de communiquer et permet également de bien appréhender les concepts de la programmation orientée objet. Demandez le dépliant de Pascal, l’essentiel y est inscrit. Pour les 90% restant, allez sur internet. 
+- [UML(Unified Modeling Language)](https://fr.wikipedia.org/wiki/UML_(informatique)) 
+Fait également partie des bases à connaitre. C'est un très bon moyen de communiquer et permet également de bien appréhender les concepts de la programmation orientée objet. Demandez le dépliant de Pascal, l’essentiel y est inscrit. Pour les 90% restant, allez sur internet. 
 
 ## Pour être un peu plus à l'aise
 
@@ -69,6 +70,7 @@ Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos su
 #### HTML - CSS
 - [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) *OpenClassrooms*
 Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS).
+- Rien de mieux q'un petit tour sur Openclassroom, et la certification proposée, sur HTML5 ET CC3, certes aprés vous ne coderez pas la nasa, mais il donne des bonnes bases pour comprendre et continuer à apprendre.
 - [W3 School](https://www.w3schools.com)
 Souvent en tête des résultats Google et on comprend pourquoi. On y trouver toute la doc et plein de tutoriels. 
 - [Bootstrap](https://getbootstrap.com)
@@ -96,32 +98,34 @@ Indispensable si l'on veut avoir un minimum de crédibilité. Au delà de ça, c
 
 ## Pour prendre de l'avance
 #### MySQL
+- [sql.sh](http://sql.sh/) 
+Des tutoriaux complets sur les lignes de commandes à effectuer selon le cas voulu, c'est très complet.
 -
--
+
+#### JSP
+- [StackOverflow](https://stackoverflow.com/questions/tagged/jsp) 
+Un problème? Stack Overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 
 #### Le web en Java (JSP/JSTL)
 - [Développez des sites web en Java EE](https://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee)
 
-
 #### JSF
-- 
-- 
+- [StackOverflow/jsf](https://stackoverflow.com/questions/tagged/jsf) 
+Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions, c'est qu'il n'y a pas de problème. 
+
 
 #### Hibernate
--
+- [StackOverflow/hibernate](https://stackoverflow.com/questions/tagged/hibernate) 
 -
 
 #### Spring
--
--
+- [StackOverflow/spring](https://stackoverflow.com/questions/tagged/spring)
 
 #### PHP
--
-- 
+- [StackOverflow/php](https://stackoverflow.com/questions/tagged/php) 
 
 #### Symfony
--
--
+- [StackOverflow/symfony](https://stackoverflow.com/questions/tagged/symfony)
 
 ## Pour aller plus loin
 
