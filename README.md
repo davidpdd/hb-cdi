@@ -73,38 +73,38 @@ Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les 
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 #### HTML - CSS
-- 
+- Rien de mieux q'un petit tour sur Openclassroom, et la certification proposée, sur HTML5 ET CC3, certes aprés vous ne coderez pas la nasa, mais il donne des bonnes bases pour comprendre et continuer à apprendre.
 - 
 
 
 
 ## Pour prendre de l'avance
 #### MySQL
--
+- Ce site http://sql.sh/ propose des tutoriaux complet sur les lignes de commandes a effectuer selon le cas voulu, c'est trés complet.
 -
 
 #### JSP
-- 
+- Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 -
 
 #### JSF
-- 
+- Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 - 
 
 #### Hibernate
--
+-Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 -
 
 #### Spring
--
+-Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 -
 
 #### PHP
--
+-Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 - 
 
 #### Symfony
--
+-Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 -
 
 ## Pour aller plus loin
