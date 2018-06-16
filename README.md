@@ -11,13 +11,13 @@ Fruit d'un projet Agenda 21, ce plan de préparation est écrit par les anciens 
 
 Pas de technique ici mais des fondamentaux pour optimiser et accélérer son apprentissage. 
 
-#### Anglais
+### Anglais
 Indispensable pour être rapide et efficace. Dans la mesure où un programmeur passe plus de temps sur Google et Stack Overflow que dans son éditeur, faire ses recherches en français c'est un peu comme manger sa soupe avec une fourchette. Ca marche, mais ça prend du temps. Alors rends-toi service et apprend au moins les bases ;)
 
 - [Anglais technique pour le developpement](https://www.english4it.com) *English4IT*
 - [Duolingo](https://www.duolingo.com)  
 
-#### Apprendre à apprendre
+### Apprendre à apprendre
 Parce qu'apprendre sans savoir comment apprendre, c'est un peu dommage.
 
 - [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn/)  -   *Coursera*  
@@ -26,7 +26,7 @@ En tête des cours les plus populaires de Coursera. HOT HOT
 - [Anki](https://ankiweb.net/about) - *Web, Android, iOS($$)*  
 Application utilisant le principe des flashcards pour renforcer l'apprentissage par la répétition. Possibilité d'importer des decks ou de créer les siens. 
 
-#### Dactylographie
+### Dactylographie
 Pour passer moins de temps à chercher les touches de son clavier et plus de temps à trouver le nom parfait pour sa variable.  20 minutes par jour pendant 30 jours. Recommandé par l'association des gens qui tapent avec plus de deux doigts.
 - [Typing Study](http://www.typingstudy.com/fr/) 🇫🇷
 - [Typing Club](https://www.typingclub.com) 
@@ -45,7 +45,7 @@ Fait également partie des bases à connaitre. C'est un très bon moyen de commu
 
 ## Pour être un peu plus à l'aise
 
-#### Initiation à la programmation
+### Initiation à la programmation
 - [CS50 : Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) *edX (Harvard University)*  
 De loin le cours le plus recommandé pour s'initier à la programmation. C, Python, Web, JavasScript, SQL... Tout ce qu'il faut pour construire des bases solides. Est-ce que c'est facile? Non. Est-ce que je peux le faire en moins d'un mois? Probablement pas. Est-ce que ça va m'aider à mieux comprendre la programmation? ABSOLUMENT!  
 - [CS50 : Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) *edX (Harvard University)*  
@@ -53,17 +53,17 @@ Spécifiquement pensé pour être un premier contact avec le monde de la technol
 - [Object Oriented Design](https://www.coursera.org/learn/object-oriented-design)  *Coursera*
 Se concentrer sur les cours. Les exos sont plutôt hardcore
 
-#### Algorithmie
+### Algorithmie
 - [Hackerrank](https://www.hackerrank.com)  
 Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les bases de l'algorithmie en Java en pratiquant. 
 - [Codewars](https://www.codewars.com) 
 Même principe que Hackerrank. On choisit un langage et on résout des problèmes pour monter en grades. Ludique et efficace.
 
-#### Java
+### Java
 - [Apprendre le Java avec Graven](https://www.youtube.com/watch?v=XgVADKKb4jI)  Youtube - 🇫🇷  
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
-#### HTML - CSS
+### HTML - CSS
 - [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) OpenClassrooms - 🇫🇷  
 Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS). Certes après vous ne coderez pas la nasa, mais il donne de bonnes bases pour comprendre et continuer à apprendre.
 - [W3 School](https://www.w3schools.com)
@@ -71,52 +71,52 @@ Souvent en tête des résultats Google et on comprend pourquoi. On y trouver tou
 - [Bootstrap](https://getbootstrap.com)
 Incontournable dès lors que l'on veut créer de belles choses rapidement. Ca vaut le coup de jeter un oeil aux différents composants et de s'amuser avec. La documentation est très bien fournie. C'est également super simple de piquer des bouts de code pour les adapter à ce que l'on veut faire. 
 
-#### Outils de développement
+### Outils de développement
 
 Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. Un conseil, apprendre les raccourcis les plus courants. Mine de rien, ça fait gagner pas mal de temps au bout du compte. 
 
-##### IDE
+#### IDE
 
 La formation se fait sur Eclipse pour la partie Java et sur PhpStorm pour la partie PHP (duh). Ceux qui comment sur IntelliJ auront une longeur d'avance car JetBrains, l'éditeur d'IntelliJ, fait également PhpStorm et AndroidStudio est basé sur IntelliJ. Avis aux debrouillards, en cas de pépin sur IntelliJ, vous serez seuls dans votre misère.
 
 - [Eclipse](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (par défaut) : pour ceux qui aiment se prendre la tête en groupe
 - [IntelliJ](https://www.jetbrains.com/shop/eform/students) : pour ceux qui aiment se débrouiller. En bonus, on peut béneficier du pack Ultimate gratuitement pendant un an en envoyant son attestation d'entrée en formation. 
 
-##### OS
+#### OS
 
 - Windows : installé par défaut sur les machines de formation
 - Linux : pour ceux qui veulent que ça fonctionne et souhaitent savoir pourquoi
 - MacOS : pour les autres
 
-##### Git/Github
-Indispensable si l'on veut avoir un minimum de crédibilité. Au delà de ça, c'est un outil formidable. L'apprentissage est un peu pénible mais tellement gratifiant. En ligne de commande, c'est mieux. Attention à bien se renseigner avant de copier bêtement des commandes trouvée sur StackOverflow genre 'git clean'... 
+#### Git/Github
+Indispensable si l'on veut avoir un minimum de crédibilité. Au delà de ça, c'est un outil formidable. L'apprentissage est un peu pénible mais tellement gratifiant. En ligne de commande, c'est mieux. Attention à bien se renseigner avant de copier bêtement des commandes trouvée sur StackOverflow genre `git clean`... 
 
 ## Pour prendre de l'avance
-#### MySQL
+### MySQL
 - [sql.sh](http://sql.sh/) 
 Des tutoriaux complets sur les lignes de commandes à effectuer selon le cas voulu, c'est très complet.
 
-#### JSP
+### JSP
 - [StackOverflow](https://stackoverflow.com/questions/tagged/jsp) 
 Un problème? Stack Overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 
-#### Le web en Java (JSP/JSTL)
+### Le web en Java (JSP/JSTL)
 - [Développez des sites web en Java EE](https://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee)
 
-#### JSF
+### JSF
 - [StackOverflow/jsf](https://stackoverflow.com/questions/tagged/jsf) 
 Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions, c'est qu'il n'y a pas de problème. 
 
-#### Hibernate
+### Hibernate
 - [StackOverflow/hibernate](https://stackoverflow.com/questions/tagged/hibernate) 
 
-#### Spring
+### Spring
 - [StackOverflow/spring](https://stackoverflow.com/questions/tagged/spring)
 
-#### PHP
+### PHP
 - [StackOverflow/php](https://stackoverflow.com/questions/tagged/php) 
 
-#### Symfony
+### Symfony
 - [StackOverflow/symfony](https://stackoverflow.com/questions/tagged/symfony)
 
 ## Pour aller plus loin
