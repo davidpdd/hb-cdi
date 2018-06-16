@@ -1,5 +1,6 @@
 
 # Human Booster - Concepteur Développeur Informatique
+___
 
 Plan de préparation à la formation de Concepteur Développeur Informatique de Human Booster
 
@@ -33,10 +34,10 @@ Pour passer moins de temps à chercher les touches de son clavier et plus de tem
 - [Typing Club](https://www.typingclub.com) 
 
 #### Outils de développement
-Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. 
+Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. Un conseil, apprendre les raccourcis les plus courants. Mine de rien, ça fait gagner pas mal de temps au bout du compte. La formation se fait sur Eclipse pour la partie Java et sur PhpStorm pour la partie PHP (duh). Ceux qui comment sur IntelliJ auront une longeur d'avance car JetBrains, l'éditeur d'IntelliJ, fait également PhpStorm et AndroidStudio est basé sur IntelliJ. Avis aux debrouillards, en cas de pépin sur IntelliJ, vous serez seuls dans votre misère.  
 ##### IDE
-- Eclipse (par défaut) : pour ceux qui aiment se prendre la tête 
-- IntelliJ : pour les autres
+- Eclipse (par défaut) : pour ceux qui aiment se prendre la tête en groupe
+- IntelliJ : pour ceux qui aiment se débrouiller 
 ##### OS
 - Windows : installé par défaut sur les machines de formation
 - Linux : pour ceux qui veulent que ça fonctionne et souhaitent savoir pourquoi
@@ -60,8 +61,7 @@ L'un des rares cours en ligne disponible en français expliquant les bases de la
 Se concentrer sur les cours. Les exos sont plutôt hardcore
 
 #### UML - COO
-- [Object Oriented Design](https://www.coursera.org/learn/object-oriented-design)  *Coursera*
-Se concentrer sur les cours. Les exos sont plutôt hardcore
+- [UML(Unified Modeling Language)](https://fr.wikipedia.org/wiki/UML_(informatique)) fait également partie des bases à connaitre. C'est un très bon moyen de communiquer et permet également de bien appréhender les concepts de la programmation orientée objet. 
 
 #### Algorithmie
 - [Hackerrank](https://www.hackerrank.com)  
@@ -96,6 +96,14 @@ Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos su
 -
 
 #### Spring
+-
+-
+
+#### PHP
+-
+- 
+
+#### Symfony
 -
 -
 
