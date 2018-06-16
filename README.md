@@ -10,7 +10,6 @@ Fruit d'un projet Agenda 21, ce plan de préparation est écrit par les anciens 
 
 ## Avant de commencer
 
-
 Pas de technique ici mais des fondamentaux pour optimiser et accélérer son apprentissage. 
 
 #### Anglais
@@ -33,40 +32,36 @@ Pour passer moins de temps à chercher les touches de son clavier et plus de tem
 - [Typing Study](http://www.typingstudy.com/fr/) 🇫🇷
 - [Typing Club](https://www.typingclub.com) 
 
-#### Outils de développement
-Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. Un conseil, apprendre les raccourcis les plus courants. Mine de rien, ça fait gagner pas mal de temps au bout du compte. La formation se fait sur Eclipse pour la partie Java et sur PhpStorm pour la partie PHP (duh). Ceux qui comment sur IntelliJ auront une longeur d'avance car JetBrains, l'éditeur d'IntelliJ, fait également PhpStorm et AndroidStudio est basé sur IntelliJ. Avis aux debrouillards, en cas de pépin sur IntelliJ, vous serez seuls dans votre misère.  
-##### IDE
-- Eclipse (par défaut) : pour ceux qui aiment se prendre la tête en groupe
-- IntelliJ : pour ceux qui aiment se débrouiller 
-##### OS
-- Windows : installé par défaut sur les machines de formation
-- Linux : pour ceux qui veulent que ça fonctionne et souhaitent savoir pourquoi
-- MacOS : pour les autres
-##### Git/Github
-- `git clean` what else
 
-## Pour ne pas trop souffrir
+## Les bases
+
+#### A faire 
+
+Toute la formation est centrée sur la conception orientée objet (COO). On vous dira souvent que plus on avance, moins c'est difficile, mais c'est tout simplement que plus vite on comprend les concepts de COO, plus c'est facile d'aborder de nouveaux langages ou frameworks. Attaquer la formation sans connaître ces principes là c'est se tirer un balle dans le pieds avant même d'avoir commencé. 
+
+- [Initiation à la programmation (Java)](https://www.coursera.org/learn/initiation-programmation-java) *Coursera (Polytech Lausanne)*   🇫🇷  
+L'un des rares cours en ligne disponible en français expliquant les bases de la programmation. Conditions, boucles, tableaux et fonctions. La base de la base.
+
+- [Introduction à la programmation orientée objet](https://www.coursera.org/learn/programmation-orientee-objet-java) *Coursera (Polytech Lausanne)* 🇫🇷
+
+- [UML(Unified Modeling Language)](https://fr.wikipedia.org/wiki/UML_(informatique)) 
+Fait également partie des bases à connaitre. C'est un très bon moyen de communiquer et permet également de bien appréhender les concepts de la programmation orientée objet. Demandez le dépliant de Pascal, l’essentiel y est inscrit. Pour les 90% restant, allez sur internet. 
+
+## Pour être un peu plus à l'aise
 
 #### Initiation à la programmation
 - [CS50 : Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) *edX (Harvard University)*  
 De loin le cours le plus recommandé pour s'initier à la programmation. C, Python, Web, JavasScript, SQL... Tout ce qu'il faut pour construire des bases solides. Est-ce que c'est facile? Non. Est-ce que je peux le faire en moins d'un mois? Probablement pas. Est-ce que ça va m'aider à mieux comprendre la programmation? ABSOLUMENT!  
 - [CS50 : Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) *edX (Harvard University)*  
 Spécifiquement pensé pour être un premier contact avec le monde de la technologie. Parfait pour les personnes pas vraiment à l'aise avec l'informatique.
-- [Initiation à la programmation (Java)](https://www.coursera.org/learn/initiation-programmation-java) *Coursera (Polytech Lausanne)*   🇫🇷  
-L'un des rares cours en ligne disponible en français expliquant les bases de la programmation. Conditions, boucles, tableaux et fonctions. La base de la base.
-
-- [Introduction à la programmation orientée objet](https://www.coursera.org/learn/programmation-orientee-objet-java) *Coursera (Polytech Lausanne)* 🇫🇷
-
 - [Object Oriented Design](https://www.coursera.org/learn/object-oriented-design)  *Coursera*
 Se concentrer sur les cours. Les exos sont plutôt hardcore
-
-#### UML - COO
-- [UML(Unified Modeling Language)](https://fr.wikipedia.org/wiki/UML_(informatique)) fait également partie des bases à connaitre. C'est un très bon moyen de communiquer et permet également de bien appréhender les concepts de la programmation orientée objet. 
 
 #### Algorithmie
 - [Hackerrank](https://www.hackerrank.com)  
 Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les bases de l'algorithmie en Java en pratiquant. 
 - [Codewars](https://www.codewars.com) 
+Même principe que Hackerrank. On choisit un langage et on résout des problèmes pour monter en grades. Ludique et efficace.
 
 #### Java
 - [Apprendre le Java avec Graven](https://www.youtube.com/watch?v=XgVADKKb4jI)  Youtube - 🇫🇷  
@@ -74,38 +69,61 @@ Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos su
 
 #### HTML - CSS
 - Rien de mieux q'un petit tour sur Openclassroom, et la certification proposée, sur HTML5 ET CC3, certes aprés vous ne coderez pas la nasa, mais il donne des bonnes bases pour comprendre et continuer à apprendre.
-- 
+- [W3 School](https://www.w3schools.com)
+Souvent en tête des résultats Google et on comprend pourquoi. On y trouver toute la doc et plein de tutoriels. 
+- [Bootstrap](https://getbootstrap.com)
+Incontournable dès lors que l'on veut créer de belles choses rapidement. Ca vaut le coup de jeter un oeil aux différents composants et de s'amuser avec. La documentation est très bien fournie. C'est également super simple de piquer des bouts de code pour les adapter à ce que l'on veut faire. 
 
+
+#### Outils de développement
+
+Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. Un conseil, apprendre les raccourcis les plus courants. Mine de rien, ça fait gagner pas mal de temps au bout du compte. La formation se fait sur Eclipse pour la partie Java et sur PhpStorm pour la partie PHP (duh). Ceux qui comment sur IntelliJ auront une longeur d'avance car JetBrains, l'éditeur d'IntelliJ, fait également PhpStorm et AndroidStudio est basé sur IntelliJ. Avis aux debrouillards, en cas de pépin sur IntelliJ, vous serez seuls dans votre misère.
+
+##### IDE
+
+Eclipse (par défaut) : pour ceux qui aiment se prendre la tête en groupe
+IntelliJ : pour ceux qui aiment se débrouiller
+
+##### OS
+
+Windows : installé par défaut sur les machines de formation
+Linux : pour ceux qui veulent que ça fonctionne et souhaitent savoir pourquoi
+MacOS : pour les autres
+
+##### Git/Github
+Indispensable si l'on veut avoir un minimum de crédibilité. Au delà de ça, c'est un outil formidable. L'apprentissage est un peu pénible mais tellement gratifiant. En ligne de commande, c'est mieux. Attention à bien se renseigner avant de copier bêtement des commandes trouvée sur StackOverflow genre 'git clean'... 
 
 
 ## Pour prendre de l'avance
 #### MySQL
-- Ce site http://sql.sh/ propose des tutoriaux complet sur les lignes de commandes a effectuer selon le cas voulu, c'est trés complet.
+- [sql.sh](http://sql.sh/) 
+Des tutoriaux complets sur les lignes de commandes à effectuer selon le cas voulu, c'est très complet.
 -
 
 #### JSP
-- Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
--
+- [StackOverflow](https://stackoverflow.com/questions/tagged/jsp) 
+Un problème? Stack Overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
+
+#### Le web en Java (JSP/JSTL)
+- [Développez des sites web en Java EE](https://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee)
 
 #### JSF
-- Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
-- 
+- [StackOverflow/jsf](https://stackoverflow.com/questions/tagged/jsf) 
+Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions, c'est qu'il n'y a pas de problème. 
+
 
 #### Hibernate
--Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
+- [StackOverflow/hibernate](https://stackoverflow.com/questions/tagged/hibernate) 
 -
 
 #### Spring
--Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
--
+- [StackOverflow/spring](https://stackoverflow.com/questions/tagged/spring)
 
 #### PHP
--Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
-- 
+- [StackOverflow/php](https://stackoverflow.com/questions/tagged/php) 
 
 #### Symfony
--Un problème? stake overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
--
+- [StackOverflow/symfony](https://stackoverflow.com/questions/tagged/symfony)
 
 ## Pour aller plus loin
 
