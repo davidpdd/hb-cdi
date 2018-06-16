@@ -11,6 +11,9 @@ Fruit d'un projet Agenda 21, ce plan de préparation est écrit par les anciens 
 
 Pas de technique ici mais des fondamentaux pour optimiser et accélérer son apprentissage. 
 
+### Bon à savoir
+- Abonnement Premium OpenClassrooms : l'abonnement premium (vidéos explicatives à la place du texte) est offert sur le site en renseignant son identifiant pôle emploi (pratique)
+
 ### Anglais
 Indispensable pour être rapide et efficace. Dans la mesure où un programmeur passe plus de temps sur Google et Stack Overflow que dans son éditeur, faire ses recherches en français c'est un peu comme manger sa soupe avec une fourchette. Ca marche, mais ça prend du temps. Alors rends-toi service et apprend au moins les bases ;)
 
@@ -102,6 +105,9 @@ Un problème? Stack Overflow pourra vous aider, car dans ce monde au moins une p
 
 ### Le web en Java (JSP/JSTL)
 - [Développez des sites web en Java EE](https://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee)
+
+### Maven
+- [Apprendre à organiser et packager une application Java](https://openclassrooms.com/courses/organisez-et-packagez-une-application-java-avec-apache-maven)
 
 ### JSF
 - [StackOverflow/jsf](https://stackoverflow.com/questions/tagged/jsf) 
