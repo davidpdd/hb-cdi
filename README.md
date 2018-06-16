@@ -68,6 +68,8 @@ Même principe que Hackerrank. On choisit un langage et on résout des problème
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 #### HTML - CSS
+- [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) *OpenClassrooms*
+Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS).
 - Rien de mieux q'un petit tour sur Openclassroom, et la certification proposée, sur HTML5 ET CC3, certes aprés vous ne coderez pas la nasa, mais il donne des bonnes bases pour comprendre et continuer à apprendre.
 - [W3 School](https://www.w3schools.com)
 Souvent en tête des résultats Google et on comprend pourquoi. On y trouver toute la doc et plein de tutoriels. 
