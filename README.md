@@ -1,10 +1,9 @@
 
 # Human Booster - Concepteur Développeur Informatique
-___
 
 Plan de préparation à la formation de Concepteur Développeur Informatique de Human Booster
 
-Fruit d'un projet Agenda 21, ce plan de préparation est écrit par les anciens stagiaires pour les aspirants stagiaires. Son but est de partager les sources nécessaires afin d'aborder la formation le plus sereinement possible. 
+Fruit d'un projet Agenda 21, ce plan de préparation est écrit par les anciens stagiaires pour les aspirants stagiaires et mis à jour petit a petit. Son but est de partager les sources nécessaires afin d'aborder la formation le plus sereinement possible. 
 
 *Bonne chance!*
 
@@ -32,10 +31,7 @@ Pour passer moins de temps à chercher les touches de son clavier et plus de tem
 - [Typing Study](http://www.typingstudy.com/fr/) 🇫🇷
 - [Typing Club](https://www.typingclub.com) 
 
-
-## Les bases
-
-#### A faire 
+## A faire 
 
 Toute la formation est centrée sur la conception orientée objet (COO). On vous dira souvent que plus on avance, moins c'est difficile, mais c'est tout simplement que plus vite on comprend les concepts de COO, plus c'est facile d'aborder de nouveaux langages ou frameworks. Attaquer la formation sans connaître ces principes là c'est se tirer un balle dans le pieds avant même d'avoir commencé. 
 
@@ -68,39 +64,37 @@ Même principe que Hackerrank. On choisit un langage et on résout des problème
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 #### HTML - CSS
-- [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) *OpenClassrooms*
-Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS).
-- Rien de mieux q'un petit tour sur Openclassroom, et la certification proposée, sur HTML5 ET CC3, certes aprés vous ne coderez pas la nasa, mais il donne des bonnes bases pour comprendre et continuer à apprendre.
+- [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) OpenClassrooms - 🇫🇷  
+Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS). Certes après vous ne coderez pas la nasa, mais il donne de bonnes bases pour comprendre et continuer à apprendre.
 - [W3 School](https://www.w3schools.com)
 Souvent en tête des résultats Google et on comprend pourquoi. On y trouver toute la doc et plein de tutoriels. 
 - [Bootstrap](https://getbootstrap.com)
 Incontournable dès lors que l'on veut créer de belles choses rapidement. Ca vaut le coup de jeter un oeil aux différents composants et de s'amuser avec. La documentation est très bien fournie. C'est également super simple de piquer des bouts de code pour les adapter à ce que l'on veut faire. 
 
-
 #### Outils de développement
 
-Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. Un conseil, apprendre les raccourcis les plus courants. Mine de rien, ça fait gagner pas mal de temps au bout du compte. La formation se fait sur Eclipse pour la partie Java et sur PhpStorm pour la partie PHP (duh). Ceux qui comment sur IntelliJ auront une longeur d'avance car JetBrains, l'éditeur d'IntelliJ, fait également PhpStorm et AndroidStudio est basé sur IntelliJ. Avis aux debrouillards, en cas de pépin sur IntelliJ, vous serez seuls dans votre misère.
+Que ferait un boucher sans ses couteaux ou un forgeron sans ses marteaux? Pas grand chose. A chacun son style, l'important c'est d'être à l'aise. Un conseil, apprendre les raccourcis les plus courants. Mine de rien, ça fait gagner pas mal de temps au bout du compte. 
 
 ##### IDE
 
-Eclipse (par défaut) : pour ceux qui aiment se prendre la tête en groupe
-IntelliJ : pour ceux qui aiment se débrouiller
+La formation se fait sur Eclipse pour la partie Java et sur PhpStorm pour la partie PHP (duh). Ceux qui comment sur IntelliJ auront une longeur d'avance car JetBrains, l'éditeur d'IntelliJ, fait également PhpStorm et AndroidStudio est basé sur IntelliJ. Avis aux debrouillards, en cas de pépin sur IntelliJ, vous serez seuls dans votre misère.
+
+- [Eclipse](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (par défaut) : pour ceux qui aiment se prendre la tête en groupe
+- [IntelliJ](https://www.jetbrains.com/shop/eform/students) : pour ceux qui aiment se débrouiller. En bonus, on peut béneficier du pack Ultimate gratuitement pendant un an en envoyant son attestation d'entrée en formation. 
 
 ##### OS
 
-Windows : installé par défaut sur les machines de formation
-Linux : pour ceux qui veulent que ça fonctionne et souhaitent savoir pourquoi
-MacOS : pour les autres
+- Windows : installé par défaut sur les machines de formation
+- Linux : pour ceux qui veulent que ça fonctionne et souhaitent savoir pourquoi
+- MacOS : pour les autres
 
 ##### Git/Github
 Indispensable si l'on veut avoir un minimum de crédibilité. Au delà de ça, c'est un outil formidable. L'apprentissage est un peu pénible mais tellement gratifiant. En ligne de commande, c'est mieux. Attention à bien se renseigner avant de copier bêtement des commandes trouvée sur StackOverflow genre 'git clean'... 
-
 
 ## Pour prendre de l'avance
 #### MySQL
 - [sql.sh](http://sql.sh/) 
 Des tutoriaux complets sur les lignes de commandes à effectuer selon le cas voulu, c'est très complet.
--
 
 #### JSP
 - [StackOverflow](https://stackoverflow.com/questions/tagged/jsp) 
@@ -113,10 +107,8 @@ Un problème? Stack Overflow pourra vous aider, car dans ce monde au moins une p
 - [StackOverflow/jsf](https://stackoverflow.com/questions/tagged/jsf) 
 Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions, c'est qu'il n'y a pas de problème. 
 
-
 #### Hibernate
 - [StackOverflow/hibernate](https://stackoverflow.com/questions/tagged/hibernate) 
--
 
 #### Spring
 - [StackOverflow/spring](https://stackoverflow.com/questions/tagged/spring)
@@ -128,4 +120,4 @@ Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions,
 - [StackOverflow/symfony](https://stackoverflow.com/questions/tagged/symfony)
 
 ## Pour aller plus loin
-
+Who are you kidding...
