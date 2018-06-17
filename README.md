@@ -57,17 +57,23 @@ Spécifiquement pensé pour être un premier contact avec le monde de la technol
 Se concentrer sur les cours. Les exos sont plutôt hardcore
 
 ### Algorithmie
+- [Scratch](https://scratch.mit.edu)
+Idéal si l'on veut s'attaquer à la logique de la programmation sans passer par un langage spécifique. Développé par MIT, il est utilisé dans les universités americaines comme introduction à la programmation. 
+- [Blocky Games](https://blockly-games.appspot.com/?lang=fr) - 🇫🇷
+Dans la même veine que Scratch, mais en français. 
 - [Hackerrank](https://www.hackerrank.com)  
 Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les bases de l'algorithmie en Java en pratiquant. 
 - [Codewars](https://www.codewars.com) 
 Même principe que Hackerrank. On choisit un langage et on résout des problèmes pour monter en grades. Ludique et efficace.
+- [Coding Games](https://www.codingame.com/start)
+Toujours de l'algo mais cette fois-ci, dans l'univers du jeu. Plein de langages supportés. 
 
 ### Java
 - [Apprendre le Java avec Graven](https://www.youtube.com/watch?v=XgVADKKb4jI)  Youtube - 🇫🇷  
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 ### HTML - CSS
-- [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) OpenClassrooms - 🇫🇷  
+- [Apprendre à créer vos site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) *OpenClassrooms* - 🇫🇷  
 Petit cours initiatique au langage web basique (HTML) et les feuilles de styles associées (CSS). Certes après vous ne coderez pas la nasa, mais il donne de bonnes bases pour comprendre et continuer à apprendre.
 - [W3 School](https://www.w3schools.com)
 Souvent en tête des résultats Google et on comprend pourquoi. On y trouver toute la doc et plein de tutoriels. 
@@ -104,10 +110,10 @@ Des tutoriaux complets sur les lignes de commandes à effectuer selon le cas vou
 Un problème? Stack Overflow pourra vous aider, car dans ce monde au moins une personne aura eu le même problème que vous.
 
 ### Le web en Java (JSP/JSTL)
-- [Développez des sites web en Java EE](https://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee)
+- [Développez des sites web en Java EE](https://openclassrooms.com/courses/developpez-des-sites-web-avec-java-ee) *OpenClassrooms* - 🇫🇷 
 
 ### Maven
-- [Apprendre à organiser et packager une application Java](https://openclassrooms.com/courses/organisez-et-packagez-une-application-java-avec-apache-maven)
+- [Apprendre à organiser et packager une application Java](https://openclassrooms.com/courses/organisez-et-packagez-une-application-java-avec-apache-maven) *OpenClassrooms* - 🇫🇷 
 
 ### JSF
 - [StackOverflow/jsf](https://stackoverflow.com/questions/tagged/jsf) 
@@ -119,10 +125,9 @@ Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions,
 ### Spring
 - [StackOverflow/spring](https://stackoverflow.com/questions/tagged/spring)
 
-### PHP
-- [StackOverflow/php](https://stackoverflow.com/questions/tagged/php) 
-
-### Symfony
+### PHP/Symfony
+- [Knp University](https://knpuniversity.com)
+L'un des meilleurs supports d'apprentissage pour tout ce qui est lié à PHP et Symfony. 
 - [StackOverflow/symfony](https://stackoverflow.com/questions/tagged/symfony)
 
 ## Pour aller plus loin
