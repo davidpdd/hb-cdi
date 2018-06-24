@@ -13,6 +13,7 @@ Pas de technique ici mais des fondamentaux pour optimiser et accélérer son app
 
 ### Bon à savoir
 - Abonnement Premium OpenClassrooms : l'abonnement premium (vidéos explicatives à la place du texte) est offert sur le site en renseignant son identifiant pôle emploi (pratique)
+- [JetBrains Student Licence (IDE)](https://www.jetbrains.com/shop/eform/students) : JetBrains est à l'origine de PhpStorm utilisé plus tard dans la formation, mais également d'IntelliJ que vous pouvez utilisez en Java. Une licence d'un an pour le pack Ultimate peut vous être offerte si vous en faites la demande sur leur site en leur fournissant votre attestation d'entrée en formation (onglet 'Official Document'). 
 
 ### Anglais
 Indispensable pour être rapide et efficace. Dans la mesure où un programmeur passe plus de temps sur Google et Stack Overflow que dans son éditeur, faire ses recherches en français c'est un peu comme manger sa soupe avec une fourchette. Ca marche, mais ça prend du temps. Alors rends-toi service et apprend au moins les bases ;)
