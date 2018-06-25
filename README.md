@@ -132,6 +132,6 @@ Encore un problème? Stack Overflow est encore là. S'il n'y a pas de solutions,
 - [Knp University](https://knpuniversity.com)
 L'un des meilleurs supports d'apprentissage pour tout ce qui est lié à PHP et Symfony. 
 - [StackOverflow/symfony](https://stackoverflow.com/questions/tagged/symfony)
-
+- [Symfony](http://www.lafermeduweb.net/tutorial/demarrer-un-projet-avec-symfony-p27.html), un tuto complet du démarrage d'un projet Symfony à sa mise en place, faites vous plaisir, Symfony, connote une belle mélodie afin de coder trés trés efficacement et de manière optimale.
 ## Pour aller plus loin
 Who are you kidding...
